@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*8
+/**
  * main - main fuction
  * Return: always 0
  */
